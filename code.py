@@ -1,3 +1,9 @@
+#!/usr/bin/env python3.5
+
+# Copyright (c) 2019 Fernando
+# Url: https://github.com/dlfernando/
+# License: MIT
+
 # DESCRIPTION:
 # This script executes 2 actions:
 # 1.) removes all code between '#>>>>>> and '#<<<<<< tags from a file.
@@ -11,7 +17,6 @@
 # Replace "original" variable with the name of your original file.
 # Replace "destination" variable with the name of your desired output file.
 # Execute script using command: "python code.py"
-# If using under Linux/UNIX, include #!/usr/bin/python in first line of script.
 
 import re
 
