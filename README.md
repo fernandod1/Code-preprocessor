@@ -4,8 +4,9 @@ DESCRIPTION:
 
 This script was coded to simplify and automate the boring stuff of removing pieces of code and including new ones. A  This script executes 2 actions:
 
-1.) removes all code between '#>>>>>> and '#<<<<<< tags from a file. You can set your own tags.
-2.) search for tags like '#include "file.ext" and replace them with its files content.
+1. Removes all code between '#>>>>>> and '#<<<<<< tags from a file. You can set your own tags.
+
+2. Search for tags like '#include "file.ext" and replace them with its files content.
 
 REQUIREMENTS:
 - Python v3
