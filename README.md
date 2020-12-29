@@ -20,4 +20,4 @@ If using under Linux/UNIX, include #!/usr/bin/python in first line of script.
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always webcome :)
+Collaborations to improve script are always welcome.
