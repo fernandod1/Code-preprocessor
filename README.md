@@ -9,10 +9,12 @@ This script was coded to simplify and automate the boring stuff of removing piec
 2. Search for tags like '#include "file.ext" and replace them with its files content.
 
 REQUIREMENTS:
+
 - Python v3
 - Python module re
 
 USAGE:
+
 Replace "original" variable with the name of your original file.
 Replace "destination" variable with the name of your desired output file.
 Execute script using command: "python code.py"
